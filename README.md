@@ -4,7 +4,7 @@ An implementation of the Ray Tracing Algorithm
 # Description
 The program will raytrace the object file passed in. It colors the object according to the scene and can toggle
 bump maps and phong smoothing to add more detail to the object. The program will take in an object file in the main 
-function, when passing it in as a parameter in the readObj function.
+function, when passing it in as a parameter in the readObj function. Attached images that displays of a torus
 
 # OpenGl
 Utilises the <GL/glut.h>, <GL/gl.h>, and <GL/glu.h> libraries to run the openGL functions.
